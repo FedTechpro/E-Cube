@@ -42,11 +42,6 @@ export default function Navbar({ searchActive, setSearchActive }) {
     navigate("/login");
   };
 
-  const styles = {
-    dark: { bg: "[#0F0F0F]" },
-    light: { bg: "[#FFFFFF]" },
-  };
-
   return (
     <nav className="fixed top-0 w-full px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 py-3 flex items-center justify-between bg-[#0F0F0F] border-b border-[#2A2A2A] z-50 backdrop-blur-sm bg-opacity-95">
       {/* Logo */}
