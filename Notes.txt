@@ -1,0 +1,9 @@
+Pages remaining for me to create
+
+=> Profile Pages
+=> Forgot Password
+=> Handle edit
+=> Add email notifications
+=> In-App notifications
+=> Add a modal information when user taps message.
+=> If user is not verified, show user a page telling user to verify account before posting
